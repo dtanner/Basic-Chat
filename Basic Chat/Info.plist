@@ -39,5 +39,7 @@
 		<string>UIInterfaceOrientationPortrait</string>
 		<string>UIInterfaceOrientationPortraitUpsideDown</string>
 	</array>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+        <string>I neeeeeeed bluetooth to work</string>
 </dict>
 </plist>
